@@ -1,0 +1,23 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.imagen-empresa-modal{
+  border-radius: 2px;
+}
+.imagen-persona{
+  border-radius: 50%;
+}
+.text-lista{
+  list-style: none;
+}
+.alalista{
+  overflow: auto;
+  max-height: 120px;
+}
+.imagen-empresa{
+  border-radius: 20%;
+}
+.border-none{
+  border: none;
+}
